@@ -1,3 +1,8 @@
 {
-  "projectId": "hyh153"
+  "projectId": "hyh153",
+  "baseUrl": "https://twitter.com",
+  "env": {
+    "email": "change to your email",
+    "password": "change to your password"
+  }
 }
